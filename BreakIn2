@@ -334,7 +334,7 @@ else
 		})
 	end
 	local Window = OrionLib:MakeWindow({
-		Name = "Breaking Blitz",
+		Name = "TTD Premium",
 		HidePremium = false,
 		SaveConfig = true,
 		ConfigFolder = "OrionTest",
