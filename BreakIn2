@@ -5,7 +5,7 @@ if game.PlaceId ~= 13864667823 then
 	-- Free Gamepasses (LOBBY)
 	local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/RScriptz/RobloxScripts/main/OrionLibKeybind.lua')))()
 	local Window = OrionLib:MakeWindow({
-		Name = "TTD Premium",
+		Name = "Relapse Execution",
 		HidePremium = false,
 		SaveConfig = true,
 		ConfigFolder = "OrionTest",
@@ -334,7 +334,7 @@ else
 		})
 	end
 	local Window = OrionLib:MakeWindow({
-		Name = "TTD Premium",
+		Name = "Relapse Execution",
 		HidePremium = false,
 		SaveConfig = true,
 		ConfigFolder = "OrionTest",
@@ -1016,7 +1016,7 @@ else
 		end    
 	})
 
-	Notify('Loaded!', "Hi Thank For Useing TTD Premium This Is Made For Break In 2 And This Can Get You Banned Just Be Cool About It You Will Be Fine ;)", 'rbxassetid://4483345998', 15)
+	Notify('Loaded!', "Hi Thank For Useing Relapse Execution This Is Made For Break In 2 And This Can Get You Banned Just Be Cool About It You Will Be Fine ;)", 'rbxassetid://4483345998', 15)
 	ScriptLoaded = true
 	OrionLib:Init()
 end
